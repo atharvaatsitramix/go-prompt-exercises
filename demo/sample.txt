@@ -1,0 +1,18 @@
+This is a sample text file for testing file reading functionality.
+
+Line 1: Hello World!
+Line 2: This file contains multiple lines
+Line 3: We can read this file using our FileReader
+Line 4: Error handling is important when reading files
+Line 5: Always check for file existence
+Line 6: Handle permission errors gracefully
+Line 7: Consider memory usage for large files
+Line 8: Use appropriate data structures
+Line 9: Test edge cases thoroughly
+Line 10: This is the last line of our sample file
+
+This file will help demonstrate:
+- Reading entire file content as string
+- Reading file line by line
+- Error handling scenarios
+- HTTP server endpoints for file operations 
